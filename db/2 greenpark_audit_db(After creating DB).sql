@@ -1,0 +1,4 @@
+
+INSERT INTO `tbl_gp_user` (`user_id`, `email`, `password_hash`, `auth_token`, `is_email_verified`, `password_requested_date`, `last_login_time`, `created_date`, `modified_date`) VALUES
+(1,	'admin@greenpark.com',	'$2y$13$YSvfOLaMGGtIDW5rFiyrKuD9WGHYKXdy5XtBRSFmi4nGQmPa1HM7W',	'$2y$13$YSvfOLaMGGtIDW5rFiyrKuD9WGHYKXdy5XtBRSFmi4nGQmPa1HM7W',	1,	NULL,	NULL,	'2017-11-06 11:29:59',	NULL)
+ON DUPLICATE KEY UPDATE `user_id` = VALUES(`user_id`), `email` = VALUES(`email`), `password_hash` = VALUES(`password_hash`), `auth_token` = VALUES(`auth_token`), `is_email_verified` = VALUES(`is_email_verified`), `password_requested_date` = VALUES(`password_requested_date`), `last_login_time` = VALUES(`last_login_time`), `created_date` = VALUES(`created_date`), `modified_date` = VALUES(`modified_date`);

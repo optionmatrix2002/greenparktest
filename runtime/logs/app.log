@@ -1,0 +1,1262 @@
+2019-08-10 21:31:56 
+user=Guest
+Log Time:10-08-2019 09:31:56 PM
+Requested URL: http://52.162.161.194/myadmin/scripts/db___.init.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "myadmin/scripts/db___.init.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('myadmin/scripts...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:31:57 
+user=Guest
+Log Time:10-08-2019 09:31:57 PM
+Requested URL: http://52.162.161.194/MyAdmin/scripts/db___.init.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "MyAdmin/scripts/db___.init.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('MyAdmin/scripts...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:31:58 
+user=Guest
+Log Time:10-08-2019 09:31:58 PM
+Requested URL: http://52.162.161.194/plugins/weathermap/editor.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "plugins/weathermap/editor.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('plugins/weather...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:31:58 
+user=Guest
+Log Time:10-08-2019 09:31:58 PM
+Requested URL: http://52.162.161.194/cacti/plugins/weathermap/editor.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "cacti/plugins/weathermap/editor.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('cacti/plugins/w...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:31:59 
+user=Guest
+Log Time:10-08-2019 09:31:59 PM
+Requested URL: http://52.162.161.194/d7.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "d7.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('d7.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:00 
+user=Guest
+Log Time:10-08-2019 09:32:00 PM
+Requested URL: http://52.162.161.194/1x.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "1x.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('1x.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:01 
+user=Guest
+Log Time:10-08-2019 09:32:01 PM
+Requested URL: http://52.162.161.194/home.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "home.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('home.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:01 
+user=Guest
+Log Time:10-08-2019 09:32:01 PM
+Requested URL: http://52.162.161.194/undx.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "undx.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('undx.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:02 
+user=Guest
+Log Time:10-08-2019 09:32:01 PM
+Requested URL: http://52.162.161.194/spider.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "spider.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('spider.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:02 
+user=Guest
+Log Time:10-08-2019 09:32:02 PM
+Requested URL: http://52.162.161.194/payload.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "payload.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('payload.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:02 
+user=Guest
+Log Time:10-08-2019 09:32:02 PM
+Requested URL: http://52.162.161.194/composers.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "composers.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('composers.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:03 
+user=Guest
+Log Time:10-08-2019 09:32:03 PM
+Requested URL: http://52.162.161.194/izom.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "izom.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('izom.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:03 
+user=Guest
+Log Time:10-08-2019 09:32:03 PM
+Requested URL: http://52.162.161.194/composer.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "composer.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('composer.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:06 
+user=Guest
+Log Time:10-08-2019 09:32:06 PM
+Requested URL: http://52.162.161.194/hue2.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "hue2.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('hue2.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:07 
+user=Guest
+Log Time:10-08-2019 09:32:07 PM
+Requested URL: http://52.162.161.194/Drupal.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "Drupal.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('Drupal.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:08 
+user=Guest
+Log Time:10-08-2019 09:32:08 PM
+Requested URL: http://52.162.161.194/izom.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "izom.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('izom.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:08 
+user=Guest
+Log Time:10-08-2019 09:32:08 PM
+Requested URL: http://52.162.161.194/payload.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "payload.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('payload.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:10 
+user=Guest
+Log Time:10-08-2019 09:32:10 PM
+Requested URL: http://52.162.161.194/new_license.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "new_license.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('new_license.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:13 
+user=Guest
+Log Time:10-08-2019 09:32:13 PM
+Requested URL: http://52.162.161.194/images/!.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "images/!.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('images/!.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:13 
+user=Guest
+Log Time:10-08-2019 09:32:13 PM
+Requested URL: http://52.162.161.194/images/vuln.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "images/vuln.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('images/vuln.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:14 
+user=Guest
+Log Time:10-08-2019 09:32:14 PM
+Requested URL: http://52.162.161.194/hd.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "hd.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('hd.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:14 
+user=Guest
+Log Time:10-08-2019 09:32:14 PM
+Requested URL: http://52.162.161.194/images/up.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "images/up.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('images/up.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:16 
+user=Guest
+Log Time:10-08-2019 09:32:16 PM
+Requested URL: http://52.162.161.194/images/attari.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "images/attari.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('images/attari.p...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:16 
+user=Guest
+Log Time:10-08-2019 09:32:16 PM
+Requested URL: http://52.162.161.194/images/jsspwneed.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "images/jsspwneed.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('images/jsspwnee...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:17 
+user=Guest
+Log Time:10-08-2019 09:32:17 PM
+Requested URL: http://52.162.161.194/images/stories/cmd.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "images/stories/cmd.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('images/stories/...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:17 
+user=Guest
+Log Time:10-08-2019 09:32:17 PM
+Requested URL: http://52.162.161.194/images/stories/filemga.php?ssp=RfVbHu
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "images/stories/filemga.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('images/stories/...', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:20 
+user=Guest
+Log Time:10-08-2019 09:32:20 PM
+Requested URL: http://52.162.161.194/up.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "up.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('up.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:20 
+user=Guest
+Log Time:10-08-2019 09:32:20 PM
+Requested URL: http://52.162.161.194/laravel.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "laravel.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('laravel.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:21 
+user=Guest
+Log Time:10-08-2019 09:32:21 PM
+Requested URL: http://52.162.161.194/huoshan.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "huoshan.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('huoshan.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:21 
+user=Guest
+Log Time:10-08-2019 09:32:21 PM
+Requested URL: http://52.162.161.194/yu.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "yu.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('yu.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php:114
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 /var/www/html/public_html/index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-10 21:32:22 
+user=Guest
+Log Time:10-08-2019 09:32:22 PM
+Requested URL: http://52.162.161.194/floaw.php
+Request method: GET
+User IP: 111.231.93.210
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "floaw.php". in /var/www/html/public_html/vendor/yiisoft/yii2/base/Module.php:532
+Stack trace:
+#0 /var/www/html/public_html/vendor/yiisoft/yii2/web/Application.php(102): yii\base\Module->runAction('floaw.php', Array)
+#1 /var/www/html/public_html/vendor/yiisoft/yii2/base/Application.php(380): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 /var/www/html/public_html/index.php(15): yii\base\Application->2019-08-23 13:40:05 
+user=Guest
+Log Time:23-08-2019 01:40:05 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:695
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(695): PDO->__construct('mysql:host=loca...', 'root', 'greenpark@2017', NULL)
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(621): yii\db\Connection->createPdoInstance()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#16 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#17 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#18 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#20 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#21 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#22 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#23 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#24 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#28 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#29 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#30 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#31 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#14 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#15 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#16 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#17 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#18 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#20 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#21 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#22 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#23 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#24 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#28 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#29 {main}
+Additional Information:
+
+2019-08-23 13:40:05 
+user=Guest
+Log Time:23-08-2019 01:40:05 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[warning][yii\log\Dispatcher::dispatch] Unable to send log via app\components\CustomDbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' 
+
+in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(380): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(399): yii\db\mysql\QueryBuilder->supportsFractionalSeconds()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(57): yii\db\mysql\QueryBuilder->defaultTimeTypeMap()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\BaseObject.php(109): yii\db\mysql\QueryBuilder->init()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\QueryBuilder.php(116): yii\base\BaseObject->__construct(Array)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(217): yii\db\QueryBuilder->__construct(Object(yii\db\Connection))
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(248): yii\db\mysql\Schema->createQueryBuilder()
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(846): yii\db\Schema->getQueryBuilder()
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(146): yii\db\Connection->getQueryBuilder()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(291): yii\db\Query->createCommand(NULL)
+#12 C:\xampp\htdocs\greenpark\components\CustomDbTarget.php(74): yii\db\Query->scalar()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Target.php(158): app\components\CustomDbTarget->export()
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Dispatcher.php(189): yii\log\Target->collect(Array, true)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Logger.php(177): yii\log\Dispatcher->dispatch(Array, true)
+#16 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\ErrorHandler.php(113): yii\log\Logger->flush(true)
+#17 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\db\Exception))
+#18 {main}
+2019-08-23 13:40:08 
+user=Guest
+Log Time:23-08-2019 01:40:08 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:695
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(695): PDO->__construct('mysql:host=loca...', 'root', 'greenpark@2017', NULL)
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(621): yii\db\Connection->createPdoInstance()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#16 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#17 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#18 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#20 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#21 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#22 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#23 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#24 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#28 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#29 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#30 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#31 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#14 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#15 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#16 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#17 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#18 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#20 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#21 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#22 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#23 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#24 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#28 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#29 {main}
+Additional Information:
+
+2019-08-23 13:40:08 
+user=Guest
+Log Time:23-08-2019 01:40:08 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[warning][yii\log\Dispatcher::dispatch] Unable to send log via app\components\CustomDbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' 
+
+in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(380): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(399): yii\db\mysql\QueryBuilder->supportsFractionalSeconds()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(57): yii\db\mysql\QueryBuilder->defaultTimeTypeMap()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\BaseObject.php(109): yii\db\mysql\QueryBuilder->init()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\QueryBuilder.php(116): yii\base\BaseObject->__construct(Array)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(217): yii\db\QueryBuilder->__construct(Object(yii\db\Connection))
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(248): yii\db\mysql\Schema->createQueryBuilder()
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(846): yii\db\Schema->getQueryBuilder()
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(146): yii\db\Connection->getQueryBuilder()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(291): yii\db\Query->createCommand(NULL)
+#12 C:\xampp\htdocs\greenpark\components\CustomDbTarget.php(74): yii\db\Query->scalar()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Target.php(158): app\components\CustomDbTarget->export()
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Dispatcher.php(189): yii\log\Target->collect(Array, true)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Logger.php(177): yii\log\Dispatcher->dispatch(Array, true)
+#16 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\ErrorHandler.php(113): yii\log\Logger->flush(true)
+#17 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\db\Exception))
+#18 {main}
+2019-08-23 13:40:10 
+user=Guest
+Log Time:23-08-2019 01:40:10 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:695
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(695): PDO->__construct('mysql:host=loca...', 'root', 'greenpark@2017', NULL)
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(621): yii\db\Connection->createPdoInstance()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#16 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#17 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#18 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#20 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#21 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#22 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#23 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#24 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#28 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#29 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#30 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#31 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#14 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#15 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#16 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#17 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#18 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#20 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#21 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#22 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#23 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#24 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#28 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#29 {main}
+Additional Information:
+
+2019-08-23 13:40:10 
+user=Guest
+Log Time:23-08-2019 01:40:10 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[warning][yii\log\Dispatcher::dispatch] Unable to send log via app\components\CustomDbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' 
+
+in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(380): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(399): yii\db\mysql\QueryBuilder->supportsFractionalSeconds()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(57): yii\db\mysql\QueryBuilder->defaultTimeTypeMap()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\BaseObject.php(109): yii\db\mysql\QueryBuilder->init()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\QueryBuilder.php(116): yii\base\BaseObject->__construct(Array)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(217): yii\db\QueryBuilder->__construct(Object(yii\db\Connection))
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(248): yii\db\mysql\Schema->createQueryBuilder()
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(846): yii\db\Schema->getQueryBuilder()
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(146): yii\db\Connection->getQueryBuilder()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(291): yii\db\Query->createCommand(NULL)
+#12 C:\xampp\htdocs\greenpark\components\CustomDbTarget.php(74): yii\db\Query->scalar()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Target.php(158): app\components\CustomDbTarget->export()
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Dispatcher.php(189): yii\log\Target->collect(Array, true)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Logger.php(177): yii\log\Dispatcher->dispatch(Array, true)
+#16 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\ErrorHandler.php(113): yii\log\Logger->flush(true)
+#17 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\db\Exception))
+#18 {main}
+2019-08-23 13:40:19 
+user=Guest
+Log Time:23-08-2019 01:40:19 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[error][yii\db\Exception] exception 'PDOException' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:695
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(695): PDO->__construct('mysql:host=loca...', 'root', 'greenpark@2017', NULL)
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(621): yii\db\Connection->createPdoInstance()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#16 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#17 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#18 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#20 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#21 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#22 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#23 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#24 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#28 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#29 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#30 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#31 {main}
+
+Next exception 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(253): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(1153): yii\db\Command->prepare(true)
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php(399): yii\db\Command->queryInternal('fetchAll', NULL)
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(319): yii\db\Command->queryAll()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(125): yii\db\mysql\Schema->findColumns(Object(yii\db\TableSchema))
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(754): yii\db\mysql\Schema->loadTableSchema('tbl_gp_user')
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(193): yii\db\Schema->getTableMetadata('{{%user}}', 'schema', false)
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(435): yii\db\Schema->getTableSchema('{{%user}}')
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(262): yii\db\ActiveRecord::getTableSchema()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(234): yii\db\ActiveRecord::filterValidColumnNames(Object(yii\db\Connection), Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\ActiveRecord.php(191): yii\db\ActiveRecord::filterCondition(Array, Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\BaseActiveRecord.php(112): yii\db\ActiveRecord::findByCondition(Array)
+#14 C:\xampp\htdocs\greenpark\models\LoginForm.php(149): yii\db\BaseActiveRecord::findOne(Array)
+#15 C:\xampp\htdocs\greenpark\models\LoginForm.php(98): app\models\LoginForm->getActiveUser()
+#16 [internal function]: app\models\LoginForm->validatePassword('password', NULL, Object(yii\validators\InlineValidator))
+#17 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\InlineValidator.php(72): call_user_func(Array, 'password', NULL, Object(yii\validators\InlineValidator))
+#18 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\validators\Validator.php(257): yii\validators\InlineValidator->validateAttribute(Object(app\models\LoginForm), 'password')
+#19 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Model.php(367): yii\validators\Validator->validateAttributes(Object(app\models\LoginForm), Array)
+#20 C:\xampp\htdocs\greenpark\models\LoginForm.php(118): yii\base\Model->validate()
+#21 C:\xampp\htdocs\greenpark\controllers\SiteController.php(106): app\models\LoginForm->login()
+#22 [internal function]: app\controllers\SiteController->actionVerifyLogin()
+#23 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#24 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#25 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('verify-login', Array)
+#26 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('site/verify-log...', Array)
+#27 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#28 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#29 {main}
+Additional Information:
+
+2019-08-23 13:40:19 
+user=Guest
+Log Time:23-08-2019 01:40:19 PM
+Requested URL: http://localhost/greenpark/site/verify-login
+Request method: POST
+User IP: ::1
+User Host: 
+[warning][yii\log\Dispatcher::dispatch] Unable to send log via app\components\CustomDbTarget: Exception (Database Exception) 'yii\db\Exception' with message 'SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)' 
+
+in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php:632
+
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(1012): yii\db\Connection->open()
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(999): yii\db\Connection->getMasterPdo()
+#2 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(380): yii\db\Connection->getSlavePdo()
+#3 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(399): yii\db\mysql\QueryBuilder->supportsFractionalSeconds()
+#4 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\QueryBuilder.php(57): yii\db\mysql\QueryBuilder->defaultTimeTypeMap()
+#5 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\BaseObject.php(109): yii\db\mysql\QueryBuilder->init()
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\QueryBuilder.php(116): yii\base\BaseObject->__construct(Array)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\mysql\Schema.php(217): yii\db\QueryBuilder->__construct(Object(yii\db\Connection))
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Schema.php(248): yii\db\mysql\Schema->createQueryBuilder()
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Connection.php(846): yii\db\Schema->getQueryBuilder()
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(146): yii\db\Connection->getQueryBuilder()
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\db\Query.php(291): yii\db\Query->createCommand(NULL)
+#12 C:\xampp\htdocs\greenpark\components\CustomDbTarget.php(74): yii\db\Query->scalar()
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Target.php(158): app\components\CustomDbTarget->export()
+#14 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Dispatcher.php(189): yii\log\Target->collect(Array, true)
+#15 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\log\Logger.php(177): yii\log\Dispatcher->dispatch(Array, true)
+#16 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\ErrorHandler.php(113): yii\log\Logger->flush(true)
+#17 [internal function]: yii\base\ErrorHandler->handleException(Object(yii\db\Exception))
+#18 {main}
+2019-08-23 13:52:37 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 01:52:38 PM
+Requested URL: http://localhost/greenpark/css/bootstrap-datepicker.css.map
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "css/bootstrap-datepicker.css.map".' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('css/bootstrap-d...', Array)
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#2 {main}
+2019-08-23 13:53:13 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 01:53:13 PM
+Requested URL: http://localhost/greenpark/audits/reports?id=TlJJK0FUaG8rLzZRcEdrTDd1cGVLdz09
+Request method: GET
+User IP: ::1
+User Host: 
+[error][Mpdf\MpdfException:1] exception 'Mpdf\MpdfException' with message 'Unable to set PDF file protection, CSPRNG Functions are not available. Use paragonie/random_compat polyfill or upgrade to PHP 7.' in C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Pdf\Protection\UniqidGenerator.php:11
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\ServiceFactory.php(69): Mpdf\Pdf\Protection\UniqidGenerator->__construct()
+#1 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Mpdf.php(1055): Mpdf\ServiceFactory->getServices(Object(Mpdf\Mpdf), Object(Psr\Log\NullLogger), Array, 0, Object(Mpdf\Language\LanguageToFont), Object(Mpdf\Language\ScriptToLanguage), NULL, NULL, NULL, NULL)
+#2 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(296): Mpdf\Mpdf->__construct(Array)
+#3 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(272): kartik\mpdf\Pdf->setApi()
+#4 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(373): kartik\mpdf\Pdf->getApi()
+#5 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(261): kartik\mpdf\Pdf->output('\n<div style="bo...', 'C:\\xampp\\htdocs...', 'F')
+#6 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1536): kartik\mpdf\Pdf->render()
+#7 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1291): app\controllers\AuditsController->actionMpdfDemo1()
+#8 [internal function]: app\controllers\AuditsController->actionReports('TlJJK0FUaG8rLzZ...')
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('reports', Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('audits/reports', Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#15 {main}
+2019-08-23 13:53:31 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 01:53:31 PM
+Requested URL: http://localhost/greenpark/audits/reports?id=NmsrZU8raEN2c3gxTm9xcjQrQVNRUT09
+Request method: GET
+User IP: ::1
+User Host: 
+[error][Mpdf\MpdfException:1] exception 'Mpdf\MpdfException' with message 'Unable to set PDF file protection, CSPRNG Functions are not available. Use paragonie/random_compat polyfill or upgrade to PHP 7.' in C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Pdf\Protection\UniqidGenerator.php:11
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\ServiceFactory.php(69): Mpdf\Pdf\Protection\UniqidGenerator->__construct()
+#1 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Mpdf.php(1055): Mpdf\ServiceFactory->getServices(Object(Mpdf\Mpdf), Object(Psr\Log\NullLogger), Array, 0, Object(Mpdf\Language\LanguageToFont), Object(Mpdf\Language\ScriptToLanguage), NULL, NULL, NULL, NULL)
+#2 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(296): Mpdf\Mpdf->__construct(Array)
+#3 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(272): kartik\mpdf\Pdf->setApi()
+#4 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(373): kartik\mpdf\Pdf->getApi()
+#5 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(261): kartik\mpdf\Pdf->output('\n<div style="bo...', 'C:\\xampp\\htdocs...', 'F')
+#6 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1536): kartik\mpdf\Pdf->render()
+#7 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1291): app\controllers\AuditsController->actionMpdfDemo1()
+#8 [internal function]: app\controllers\AuditsController->actionReports('NmsrZU8raEN2c3g...')
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('reports', Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('audits/reports', Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#15 {main}
+2019-08-23 13:54:35 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 01:54:35 PM
+Requested URL: http://localhost/greenpark/audits/reports?id=NmsrZU8raEN2c3gxTm9xcjQrQVNRUT09
+Request method: GET
+User IP: ::1
+User Host: 
+[error][Mpdf\MpdfException:1] exception 'Mpdf\MpdfException' with message 'Unable to set PDF file protection, CSPRNG Functions are not available. Use paragonie/random_compat polyfill or upgrade to PHP 7.' in C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Pdf\Protection\UniqidGenerator.php:11
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\ServiceFactory.php(69): Mpdf\Pdf\Protection\UniqidGenerator->__construct()
+#1 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Mpdf.php(1055): Mpdf\ServiceFactory->getServices(Object(Mpdf\Mpdf), Object(Psr\Log\NullLogger), Array, 0, Object(Mpdf\Language\LanguageToFont), Object(Mpdf\Language\ScriptToLanguage), NULL, NULL, NULL, NULL)
+#2 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(296): Mpdf\Mpdf->__construct(Array)
+#3 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(272): kartik\mpdf\Pdf->setApi()
+#4 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(373): kartik\mpdf\Pdf->getApi()
+#5 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(261): kartik\mpdf\Pdf->output('\n<div style="bo...', 'C:\\xampp\\htdocs...', 'F')
+#6 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1536): kartik\mpdf\Pdf->render()
+#7 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1290): app\controllers\AuditsController->actionMpdfDemo1()
+#8 [internal function]: app\controllers\AuditsController->actionReports('NmsrZU8raEN2c3g...')
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('reports', Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('audits/reports', Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#15 {main}
+2019-08-23 13:55:18 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 01:55:18 PM
+Requested URL: http://localhost/greenpark/audits/reports?id=NmsrZU8raEN2c3gxTm9xcjQrQVNRUT09
+Request method: GET
+User IP: ::1
+User Host: 
+[error][Mpdf\MpdfException:1] exception 'Mpdf\MpdfException' with message 'Unable to set PDF file protection, CSPRNG Functions are not available. Use paragonie/random_compat polyfill or upgrade to PHP 7.' in C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Pdf\Protection\UniqidGenerator.php:11
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\ServiceFactory.php(69): Mpdf\Pdf\Protection\UniqidGenerator->__construct()
+#1 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Mpdf.php(1055): Mpdf\ServiceFactory->getServices(Object(Mpdf\Mpdf), Object(Psr\Log\NullLogger), Array, 0, Object(Mpdf\Language\LanguageToFont), Object(Mpdf\Language\ScriptToLanguage), NULL, NULL, NULL, NULL)
+#2 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(296): Mpdf\Mpdf->__construct(Array)
+#3 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(272): kartik\mpdf\Pdf->setApi()
+#4 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(373): kartik\mpdf\Pdf->getApi()
+#5 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(261): kartik\mpdf\Pdf->output('\n<div style="bo...', 'C:\\xampp\\htdocs...', 'F')
+#6 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1535): kartik\mpdf\Pdf->render()
+#7 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1290): app\controllers\AuditsController->actionMpdfDemo1()
+#8 [internal function]: app\controllers\AuditsController->actionReports('NmsrZU8raEN2c3g...')
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#11 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('reports', Array)
+#12 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('audits/reports', Array)
+#13 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#14 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#15 {main}
+2019-08-23 14:07:04 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 02:07:04 PM
+Requested URL: http://localhost/greenpark/site/dashboard
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\base\ErrorException:1] yii\base\ErrorException: Maximum execution time of 30 seconds exceeded in C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php:1292
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2019-08-23 14:07:40 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 02:07:40 PM
+Requested URL: http://localhost/greenpark/site/dashboard
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\base\ErrorException:1] yii\base\ErrorException: Maximum execution time of 30 seconds exceeded in C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\db\Command.php:1292
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2019-08-23 14:09:30 
+user=greenpark.audit@gmail.com
+Log Time:23-08-2019 02:09:30 PM
+Requested URL: http://localhost/greenpark/css/bootstrap-datepicker.css.map
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "css/bootstrap-datepicker.css.map". in C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('css/bootstrap-d...', Array)
+#1 C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\xampp7\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\xampp7\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#2 {main}
+2019-12-31 16:03:56 
+user=greenpark.audit@gmail.com
+Log Time:31-12-2019 04:03:56 PM
+Requested URL: http://localhost/greenpark/css/bootstrap-datepicker.css.map
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "css/bootstrap-datepicker.css.map". in C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('css/bootstrap-d...', Array)
+#1 C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\xampp7\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\xampp7\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\xampp7\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#2 {main}
+2020-03-20 19:00:52 
+user=
+Log Time:20-03-2020 07:00:55 PM
+Requested URL: http://localhost/greenpark/
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\base\ErrorException:1] yii\base\ErrorException: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Session.php:137
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2020-03-25 10:17:53 
+user=greenpark.audit@gmail.com
+Log Time:25-03-2020 10:17:53 AM
+Requested URL: http://localhost/greenpark/css/bootstrap-datepicker.css.map
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "css/bootstrap-datepicker.css.map". in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('css/bootstrap-d...', Array)
+#1 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#2 {main}
+2020-03-25 18:03:58 
+user=greenpark.audit@gmail.com
+Log Time:25-03-2020 06:03:59 PM
+Requested URL: http://localhost/greenpark/audits/reports?id=TlJJK0FUaG8rLzZRcEdrTDd1cGVLdz09
+Request method: GET
+User IP: ::1
+User Host: 
+[error][Mpdf\MpdfException:1] Mpdf\MpdfException: The HTML code size is larger than pcre.backtrack_limit 1000000. You should use WriteHTML() with smaller string lengths. in C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Mpdf.php:26661
+Stack trace:
+#0 C:\xampp\htdocs\greenpark\vendor\mpdf\mpdf\src\Mpdf.php(13159): Mpdf\Mpdf->AdjustHTML('\n<div style="bo...', 4)
+#1 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(383): Mpdf\Mpdf->WriteHTML('\n<div style="bo...', 2)
+#2 C:\xampp\htdocs\greenpark\vendor\kartik-v\yii2-mpdf\src\Pdf.php(261): kartik\mpdf\Pdf->output('\n<div style="bo...', 'C:\\xampp\\htdocs...', 'F')
+#3 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1535): kartik\mpdf\Pdf->render()
+#4 C:\xampp\htdocs\greenpark\controllers\AuditsController.php(1290): app\controllers\AuditsController->actionMpdfDemo1()
+#5 [internal function]: app\controllers\AuditsController->actionReports('TlJJK0FUaG8rLzZ...')
+#6 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\InlineAction.php(57): call_user_func_array(Array, Array)
+#7 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Controller.php(157): yii\base\InlineAction->runWithParams(Array)
+#8 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Module.php(528): yii\base\Controller->runAction('reports', Array)
+#9 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('audits/reports', Array)
+#10 C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#11 C:\xampp\htdocs\greenpark\index.php(15): yii\base\Application->run()
+#12 {main}
+2020-03-25 18:46:16 
+user=greenpark.audit@gmail.com
+Log Time:25-03-2020 06:46:16 PM
+Requested URL: http://localhost/greenpark/check-lists/add-questionnaire?id=Z0ZiR0p1L3RBTW8wblpiVkpLaVEzUT09
+Request method: GET
+User IP: ::1
+User Host: 
+[error][yii\base\ErrorException:1] yii\base\ErrorException: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\helpers\BaseHtml.php:25
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}
+2020-04-02 12:17:40 
+user=greenpark.audit@gmail.com
+Log Time:02-04-2020 12:17:40 PM
+Requested URL: http://localhost/greenpark/site/dashboard
+Request method: GET
+User IP: 127.0.0.1
+User Host: 
+[error][yii\base\ErrorException:1] yii\base\ErrorException: Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\greenpark\vendor\yiisoft\yii2\grid\GridView.php:49
+Stack trace:
+#0 [internal function]: yii\base\ErrorHandler->handleFatalError()
+#1 {main}

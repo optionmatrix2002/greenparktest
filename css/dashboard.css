@@ -1,0 +1,304 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 7, 2017, 4:15:22 PM
+    Author     : Sammy Guergachi <sguergachi at gmail.com>
+*/
+
+.quicklinks-select option {
+    font-weight: bold;
+}
+
+.quicklinks-select {
+    padding: 6px 0px !important;
+}
+
+.control-label {
+    margin-top: 7px;
+    text-align: center;
+}
+
+.quick-go-btn {
+    padding: 7px 12px !important;
+}
+
+tbody tr {
+    background: white;
+}
+
+.highcharts-credits, .highcharts-button {
+    display: none !important;
+}
+
+.raphael-group-352-creditgroup, .raphael-group-244-creditgroup, .raphael-group-121-creditgroup {
+    display: none;
+}
+
+.background-blue {
+    background-color: #8E5FA2 !important;
+    border-radius: 5px !important;
+}
+
+.background-red {
+    background-color: #3598DC !important;
+    border-radius: 5px !important;
+}
+
+.background-green {
+    background-color: #CB5A5E !important;
+    border-radius: 5px !important;
+}
+
+.background-pink {
+    background-color: #3BAEA3 !important;
+    border-radius: 5px !important;
+}
+
+.background-orange {
+    background-color: #E16925 !important;
+    border-radius: 5px !important;
+}
+
+.background-yellow {
+    background-color: #dfba49 !important;
+    border-radius: 5px !important;
+}
+
+.mini-widget .mini-widget-body i {
+    color: white !important;
+}
+
+.mini-widget {
+    padding-bottom: 5px;
+}
+
+.mini-widget .mini-widget-body .number {
+    font-size: 25px;
+    line-height: 30px;
+    color: white;
+    padding-top: 7px;
+    font-weight: bolder;
+}
+
+.topline {
+    line-height: 9px;
+    padding-top: 10px;
+    padding-left: 13px;
+}
+
+.mini-widget .mini-widget-body i {
+    color: white !important;
+    font-size: 45px;
+}
+
+.mini-widget .mini-widget-body {
+    padding: 0px 15px;
+    font-size: 36px;
+    font-weight: 300;
+    background: #2877aa;
+}
+
+.sincetext {
+    font-size: 12px;
+    color: white;
+}
+
+.bottomtext {
+    font-size: 16px;
+}
+
+.toptext {
+    font-size: 19px;
+    color: white;
+}
+
+.btn-active {
+    background-color: #607997;
+    color: white;
+}
+
+.btn-info {
+    background-color: #607997;
+    color: white;
+}
+
+.btn-gray {
+    background-color: #607997 !important;
+    color: white;
+    padding: 12px 12px;
+    box-shadow: 16px 11px 17px 1px rgba(206, 206, 209, 1);
+}
+
+.btn-orange {
+    border-bottom: 2px solid #e4824a;
+}
+
+.btn-green {
+    border-bottom: 2px solid #81BD4A;
+}
+
+.btn-yellow {
+    border-bottom: 2px solid #FFCD40;
+}
+
+.btn-red {
+    border-bottom: 2px solid #00ADED;
+}
+
+.btn-grop {
+    list-style: none;
+    float: left;
+    display: inline-block;
+    padding-left: 13px;
+}
+
+.btn-grop li {
+    float: left;
+    padding: 5px;
+}
+
+.btn-color {
+    background-color: #00ADED !important;
+    color: white !important;
+}
+
+.highcharts-container {
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.btn-gray:hover {
+    background-color: #00ADED;
+    color: white;
+    padding: 12px 12px;
+    box-shadow: 16px 11px 17px 1px rgba(206, 206, 209, 1);
+}
+
+.btn-success {
+    /*background-color: green !important;*/
+    color: white;
+}
+
+.amcharts-chart-div a {
+    display: none !important;
+}
+
+.table {
+    table-layout: fixed;
+}
+
+.circle {
+    float: left;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    border: 1px solid;
+    background: #3bb540;
+}
+
+.h4color {
+    color: orange;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: #3bb540;
+}
+
+.redbk {
+    background: red;
+}
+
+.greenbk {
+    background: #3bb540;
+}
+
+.yellowbk {
+    background: #d6d63f;
+}
+
+.arrow-up {
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+
+    border-bottom: 5px solid black;
+}
+
+#base1 {
+    background: red;
+    display: inline-block;
+    height: 11px;
+    margin-left: 75px;
+    margin-top: 1px;
+    position: relative;
+    width: 16px;
+}
+
+#base1:before {
+    border-top: 17px solid red;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    top: 6px;
+    /* right: -34px; */
+    left: -4px;
+    width: 0;
+}
+
+#base2 {
+    background: #d6d63f;
+    display: inline-block;
+    height: 11px;
+    margin-left: 75px;
+    margin-top: 8px;
+    position: relative;
+    width: 16px;
+}
+
+#base2:before {
+    border-bottom: 17px solid #d6d63f;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    top: -15px;
+    /* right: -34px; */
+    left: -4px;
+    width: 0;
+}
+
+#base {
+    background: green;
+    display: inline-block;
+    height: 11px;
+    margin-left: 75px;
+    margin-top: 8px;
+    position: relative;
+    width: 16px;
+}
+
+#base:before {
+    border-bottom: 17px solid green;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    content: "";
+    height: 0;
+    left: 0;
+    position: absolute;
+    top: -15px;
+    left: -4px;
+    width: 0;
+}

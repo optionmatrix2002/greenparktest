@@ -1,0 +1,67 @@
+/* 
+    Created on : 25 May, 2018, 12:16:01 PM
+    Author     : Shesharao Puli<pshesharaoram@gmail.com>
+*/
+/* Base for label styling */
+.custom-check:not(:checked),
+.custom-check:checked {
+    position: absolute;
+    left: -9999px;
+}
+.custom-check:not(:checked) + label,
+.custom-check:checked + label {
+    position: relative;
+    padding-left: 3em;
+    cursor: pointer;
+}
+
+/* checkbox aspect */
+.custom-check:not(:checked) + label:before,
+.custom-check:checked + label:before {
+    content: '';
+    position: absolute;
+    left: -1px;
+    top: -2px;
+    width: 2.2em;
+    height: 2.2em;
+    background: #fff;
+    border-radius: 100px;
+    box-shadow: 0px 0px 6px #888;
+}
+/* checked mark aspect */
+.custom-check:not(:checked) + label:after,
+.custom-check:checked + label:after {
+    content: '✔';
+    position: absolute;
+    top: 4px;
+    left: 2px;
+    font-size: 2em;
+    line-height: 0.8;
+    color: #09ad7e;
+    transition: all .2s;
+    font-family: Helvetica, Arial, sans-serif;
+}
+/* checked mark aspect changes */
+.custom-check:not(:checked) + label:after {
+    opacity: 0;
+    transform: scale(0);
+}
+.custom-check:checked + label:after {
+    opacity: 1;
+    transform: scale(1);
+}
+/* disabled checkbox */
+.custom-check:disabled:not(:checked) + label:before,
+.custom-check:disabled:checked + label:before {
+    box-shadow: none;
+    border-color: #bbb;
+    background-color: #ddd;
+}
+.custom-check:disabled:checked + label:after {
+    color: #999;
+}
+.custom-check:disabled + label {
+    color: #aaa;
+}
+
+
